@@ -97,16 +97,17 @@ Role switching is implemented via a dropdown.
 ---
 
 ## 📂 Project Structure
+
+```
 finance-dashboard/
 │── src/
-│ ├── App.jsx
-│ ├── App.css
-│ ├── main.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
 │── public/
 │── package.json
 │── README.md
-
----
+```
 
 ## ⚙️ Setup Instructions
 
