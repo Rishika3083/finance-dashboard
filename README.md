@@ -1,3 +1,7 @@
+<img width="1349" height="903" alt="Screenshot 2026-04-06 150127" src="https://github.com/user-attachments/assets/f7068b2e-374a-45af-847e-e3ef4a9c5d83" />
+<img width="1167" height="634" alt="Screenshot 2026-04-06 150116" src="https://github.com/user-attachments/assets/7b2e7d60-0349-4512-85dc-617ff3c2a4e4" />
+<img width="1349" height="628" alt="Screenshot 2026-04-06 150100" src="https://github.com/user-attachments/assets/87a277e7-c215-4dc8-8968-14257a07d602" />
+<img width="1537" height="953" alt="Screenshot 2026-04-06 150050" src="https://github.com/user-attachments/assets/60dcfa2e-4f67-4dd9-bb88-03b476093a96" />
 # Finance Dashboard
 
 A clean and interactive **Finance Dashboard** built with **React**, **Vite**, and **Recharts**.  
