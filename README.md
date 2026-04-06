@@ -1,16 +1,45 @@
-# React + Vite
+# Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and interactive **Finance Dashboard** built with **React**, **Vite**, and **Recharts**.  
+Track your income, expenses, and visualize your financial trends in real-time.  
 
-Currently, two official plugins are available:
+**Live Demo:** [https://Rishika3083.github.io/finance-dashboard](https://Rishika3083.github.io/finance-dashboard)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Role-based view:** Admin and Viewer  
+- **Dark mode toggle**  
+- **Add, delete, and filter transactions**  
+- **Export transactions to CSV**  
+- **Interactive charts:**  
+  - Income vs Expenses (Pie Chart)  
+  - Expenses by Category (Pie Chart)  
+  - Balance Trend (Line Chart)  
+- **Local storage support** (data persists across sessions)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **Frontend:** React, Vite  
+- **Charts:** Recharts  
+- **Icons:** React Icons (Feather Icons)  
+- **Deployment:** GitHub Pages  
+- **Linting:** ESLint  
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Rishika3083/finance-dashboard.git
+cd finance-dashboard
+
+## Install dependencies:
+npm install
+## Run the development server:
+npm run dev
