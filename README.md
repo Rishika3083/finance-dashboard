@@ -39,7 +39,19 @@ Track your income, expenses, and visualize your financial trends in real-time.
 git clone https://github.com/Rishika3083/finance-dashboard.git
 cd finance-dashboard
 
-## Install dependencies:
+Install dependencies:
 npm install
-## Run the development server:
+Run the development server:
 npm run dev
+Deployment:
+npm run deploy
+Folder Structure
+finance-dashboard/
+├─ public/
+├─ src/
+│  ├─ App.jsx
+│  ├─ App.css
+│  └─ main.jsx
+├─ package.json
+├─ vite.config.js
+└─ README.md
